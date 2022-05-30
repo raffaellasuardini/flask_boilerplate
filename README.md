@@ -7,7 +7,5 @@ What's inside:
 
 easy and simple
 
-<<<<<<< HEAD
 `pip install -r requirements.txt`
-=======
->>>>>>> origin/main
+
